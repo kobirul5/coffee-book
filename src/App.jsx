@@ -1,14 +1,11 @@
+import React from 'react';
 
-function App() {
+const App = () => {
+    return (
+        <div>
+            
+        </div>
+    );
+};
 
-
-  return (
-    <>
-      <h1 className="text-5xl">Vite + React</h1>
-      <button className="">hi</button>
-     
-    </>
-  )
-}
-
-export default App
+export default App;
